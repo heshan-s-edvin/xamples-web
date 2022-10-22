@@ -1,2 +1,0 @@
-# xamples-web
-Examples website 
