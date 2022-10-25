@@ -8,5 +8,6 @@
 	width: 100%;
 	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7),url(https://github.com/heshan-s-edvin/xamples-web/blob/main/image/banner.jpg);
 	background-position: center;
-	background-siz
+	background-size: cover;
+	position: relative:
 	}
